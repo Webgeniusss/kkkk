@@ -1,0 +1,46 @@
+/* Gaya untuk seluruh dokumen */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+/* Gaya untuk header */
+header {
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Gaya untuk bagian utama */
+main {
+    padding: 20px;
+}
+
+/* Gaya untuk setiap section */
+section {
+    background-color: #fff;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Gaya untuk daftar */
+ul {
+    padding-left: 20px;
+}
+
+/* Gaya untuk footer */
+footer {
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
